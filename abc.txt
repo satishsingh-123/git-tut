@@ -1,1 +1,13 @@
 hello git
+hello everyone welcome to the series of hello git :-
+for change drive - ( D : )
+cd ..
+cd cmd
+ git init
+ ls
+git status
+git add filename or git add .   to stage area
+git rm --cached filename to unstage area
+(git add filename or git add filename .) or git restore filename
+git commit -m " message of what will you changes "
+
