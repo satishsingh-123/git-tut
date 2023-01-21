@@ -21,5 +21,6 @@ hello everyone welcome to the series of hello git :-
 14. git config --global user.email
 15. git config --global user.name
 
+16 git log
 
 
