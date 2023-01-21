@@ -8,5 +8,6 @@ git status
 git add filename or git add .   to stage area
 git rm --cached filename to unstage area
 (git add filename or git add filename .) or git restore filename
+git commit -m " message of what will you changes "
 
 
