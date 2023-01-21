@@ -10,9 +10,16 @@ hello everyone welcome to the series of hello git :-
 8. git rm --cached filename to unstage area
 9. (git add filename or git add filename .) or git restore filename
 10. git commit -m " message of what will you changes " (commit used to save your file to local repo)
+
+#Q To set the configuration of username and email to github account?
 11. git config --global user.name"satish singh -123"
 12.git config --global user.email "satishsingh802160@gmail.com"
-13.git config --list
+13.git config --
+
+
+#Q. how to check which email and username on the git account
+14. git config --global user.email
+15. git config --global user.name
 
 
 
