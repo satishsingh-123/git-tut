@@ -23,4 +23,7 @@ hello everyone welcome to the series of hello git :-
 
 16 git log
 
+17. git branch -m main
+18. git remote add origin (link of repo)
+19. git push -u origin main
 
